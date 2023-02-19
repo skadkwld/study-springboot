@@ -7,6 +7,6 @@ import tobyspring.config.MySpringBootApplication;
 public class HellobootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HellobootApplication.class, args);
+		//SpringApplication.run(HellobootApplication.class, args);
 	}
 }
